@@ -1,2 +1,2 @@
-# Machine-Learning.-K-means
+# Machine-Learning-K-means
 A DataQuest studying project
